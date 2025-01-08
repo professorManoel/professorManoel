@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studenting  
-- 🌱 I’m currently learning java, MSQL, HTML, CSS. C++ 
+- 🌱 I’m currently learning java, MSQL, HTML, CSS, javaScript, C++ 
 
   
